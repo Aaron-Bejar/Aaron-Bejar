@@ -6,7 +6,19 @@
 </div>
 
 
-## 🛠️ My Skills
+---
+
+  <h2>About</h2>
+
+- 🎓 Estudiante de Ingeniería de Software.
+- 💻 Full Stack Developer
+- 💡 Me encanta resolver problemas y aprender nuevas tecnologías cada día.
+- 🌱 Actualmente profundizando en: **[Next.js, Node.js, Testing y Clean Code]**.
+- 🥅 Objetivo: Contribuir a proyectos de impacto y seguir creciendo profesionalmente.
+
+---
+
+  <h2>My Skills</h2>
 
 ### 🚀 Core Stack
 ![Static Badge](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,16 +33,14 @@
 ### ⚙️ Technologies to enhance my apps
 ![Static Badge](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Static Badge](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
+![badge](https://shieldcn.dev/badge/SQL-4479A1.svg?font=geist-mono&logo=ri%3AFaDatabase)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Framer_Motion-FF00C1?style=for-the-badge&logo=framer&logoColor=white)
 
-
 ![Static Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 
 
 
