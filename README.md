@@ -42,20 +42,28 @@
 ![Static Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+<h2>My Proyects</h2>
+
+---
+
+  <h2>GitHub Analytics</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aaron-Bejar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aaron-Bejar&layout=compact&langs_count=8&theme=algolia"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-
-<!--
-**Aaron-Bejar/Aaron-Bejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
