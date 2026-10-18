@@ -2,7 +2,7 @@
   <h1>¡Hola! Soy Aaron 👋</h1>
   
   <!-- Reemplaza "banner.png" por el nombre de tu archivo local -->
-  <img src="./assets/banner-github.png" width="100%" alt="Banner de Aaron" />
+  <img src="./assets/banner-github.png?v=2" width="100%" alt="Banner de Aaron" />
 </div>
 
 
